@@ -47,8 +47,9 @@ The dataset used in this project is publicly available on Kaggle: [Healthcare In
 ## Model Evaluation
 The best-performing model in this project was Polynomial Regression (degree=2) with Lasso Regularization:
 
-Test RMSE: 4,726.90
-Test R²: 0.852
+**Test RMSE**: 4,726.90
+
+**Test R²**: 0.852
 
 
 
