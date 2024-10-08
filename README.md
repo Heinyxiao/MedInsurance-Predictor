@@ -27,9 +27,9 @@ The dataset used in this project is publicly available on Kaggle: [Healthcare In
    cd healthcare-insurance-prediction
    ```
 2. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Open the Jupyter notebooks to run the analysis and model training:
    ```bash
    jupyter notebook notebooks/MedInsurance_Predictor.ipynb
